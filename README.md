@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # BGS Solutions Website Demo
 
 A responsive, front-end website concept for BGS Solutions, built with plain HTML, CSS and JavaScript.
@@ -35,3 +36,7 @@ BGS-Solutions-Demo/
 - Confirm the contact number is WhatsApp-enabled before publishing.
 - Confirm the company's service descriptions, project details, credentials and permission to use supplied photographs before launch.
 - Domain, hosting and business email are not included.
+=======
+# BGS-Solutions
+BGS Solutions provides surveying and geotechnical services in Lagos, Nigeria. Discuss your land, site and construction project with the team.
+>>>>>>> 1c6a3cbf5fc7f3aa9936ac24c8ceb35bd93a1eb7
